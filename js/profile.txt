@@ -1,7 +1,7 @@
 <span id="a">NeO@Fsociety</span>:<span id="b">~</span><span id="c">$</span> cat message.txt<br/><br/><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 Hello, friend. Hello, friend?<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>That's lame. Maybe I should give you a name, but that's a slippery slope. You're only in my head. We have to remember that. Shit.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>The following list contains some of the most recognizable companies in the world I have collaborated with, and they included me in their security acknowledgements page for reporting valid security issues:
+<p>Following list contains some of the most recognizable companies in the world I have collaborated with, and they included me in their security acknowledgements page for reporting valid security issues:
 <ul>
 <li><a href="https://www.facebook.com/whitehat/thanks/" target="_blank" rel="noopener noreferrer">Facebook</a></li>
 <li><a href="https://bughunter.withgoogle.com/rank/hof" target="_blank" rel="noopener noreferrer">Google</a></li>
